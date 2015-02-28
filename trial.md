@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Trial
+menu: The Trial
+menu-order: 20
 ---
 Kevin was charged with Mark's murder along with McKuch and Dhainault after limited police investigation. His Confessional interviews are clearly unreliable and the investigations did not conform to PACE guidelines. Although, unlike Kevin, from a different legal jurisdiction, the Frenchmen did have the benefit of the support of the French consulate and consequent legal representation, as well as translation facilities.
 

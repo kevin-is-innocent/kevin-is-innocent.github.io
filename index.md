@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Home
+menu: Home
+menu-order: 1
 ---
 It is a scandal that 16 years on from his conviction no appeal has been lodged with the Court of Appeal. It is immediately apparent to any lay person that the police interviews with Kevin are unreliable: they are the only evidence against him. The jury were not aware of his linguistic disability, his "hidden handicap" . Nor were they made aware of a number of irregular aspects of the police investigation. Had they been made aware of these matters, they would not have been able to convict Kevin "beyond reasonable doubt".
 

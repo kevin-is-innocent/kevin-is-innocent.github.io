@@ -1,6 +1,8 @@
 ---
 layout: page
 title: The Appeal Process
+menu: The Appeal Process
+menu-order: 30
 ---
 When someone is convicted they have twenty eight days in which to lodge an appeal against conviction. In the case of a conviction for murder the appeal has to be against conviction only not sentence.
 

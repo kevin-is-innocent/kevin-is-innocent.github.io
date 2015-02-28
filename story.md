@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Kevin's Story
+menu: Kevin's Story
+menu-order: 10
 ---
 Kevin came from an Irish working class background and was first generation Scottish. He was horn in 1965 in Paisley, Renfrewshire, the fourth of six children. He carried strong principles of what was right and what was wrong. He was bullied at school until he learned to fight back. He had learning difficulties which were never fully recognised. (Kevin was twenty-six before his dyslexia was diagnosed in 1992). He had wanted to be an artist but truanted from the art exam and took only metal and wood work.
 

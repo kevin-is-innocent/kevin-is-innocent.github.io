@@ -28,3 +28,10 @@
     padding-top: 10px;
 }
 
+#sidebar a {
+    font-size: 18px;
+}
+
+#sidebar a.active {
+    font-weight: bold;
+}

@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Cause for Concern
+menu: Cause for Concern
+menu-order: 40
 ---
 Kevin refused food from the hot plate and ate no other food for ten days from the evening of 26th May until Wednesday 5th June. Since then he has continued to eat no food from the hot plate and to eat in a limited fashion. He could go on to a full hunger strike at any point. How did he get to this point?
 

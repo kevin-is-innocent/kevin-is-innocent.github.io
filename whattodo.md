@@ -1,6 +1,8 @@
 ---
 layout: page
 title: What can you do?
+menu: What can you do?
+menu-order: 50
 ---
 * Write to home secretary asking what he is going to do about the release of innocent prisoners such as kevin.
 
